@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gsk4"] = [{"text":"impl Default for CairoRenderer","synthetic":false,"types":[]},{"text":"impl Default for GLRenderer","synthetic":false,"types":[]},{"text":"impl Default for Transform","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

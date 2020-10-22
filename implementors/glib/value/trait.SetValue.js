@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gsk4"] = [{"text":"impl SetValue for BlendMode","synthetic":false,"types":[]},{"text":"impl SetValue for Corner","synthetic":false,"types":[]},{"text":"impl SetValue for RenderNodeType","synthetic":false,"types":[]},{"text":"impl SetValue for ScalingFilter","synthetic":false,"types":[]},{"text":"impl SetValue for SerializationError","synthetic":false,"types":[]},{"text":"impl SetValue for TransformCategory","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

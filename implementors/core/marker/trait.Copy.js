@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["gsk4"] = [{"text":"impl Copy for BlendMode","synthetic":false,"types":[]},{"text":"impl Copy for Corner","synthetic":false,"types":[]},{"text":"impl Copy for RenderNodeType","synthetic":false,"types":[]},{"text":"impl Copy for ScalingFilter","synthetic":false,"types":[]},{"text":"impl Copy for SerializationError","synthetic":false,"types":[]},{"text":"impl Copy for TransformCategory","synthetic":false,"types":[]},{"text":"impl Copy for Shadow","synthetic":false,"types":[]}];
+implementors["gsk4_sys"] = [{"text":"impl Copy for GskColorStop","synthetic":false,"types":[]},{"text":"impl Copy for GskRoundedRect","synthetic":false,"types":[]},{"text":"impl Copy for GskShadow","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

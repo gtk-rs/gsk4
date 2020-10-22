@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gsk4"] = [{"text":"impl StructuralEq for BlendMode","synthetic":false,"types":[]},{"text":"impl StructuralEq for Corner","synthetic":false,"types":[]},{"text":"impl StructuralEq for RenderNodeType","synthetic":false,"types":[]},{"text":"impl StructuralEq for ScalingFilter","synthetic":false,"types":[]},{"text":"impl StructuralEq for SerializationError","synthetic":false,"types":[]},{"text":"impl StructuralEq for TransformCategory","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
